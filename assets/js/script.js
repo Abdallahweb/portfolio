@@ -107,7 +107,7 @@ $(document).ready(function() {
         });
 
         new kursor({
-            type: 1,
+            type: 4,
             removeDefaultCursor:true,
             color:"rgb(255,255,255)"
         });
